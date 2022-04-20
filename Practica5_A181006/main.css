@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@400;500;600&family=Poppins:wght@400;500;600&family=Righteous&display=swap');
+body{
+   font-family: 'Open sans', sans-serif;
+}
+h1{
+    text-align: center;
+}
+table{
+    margin: 0 auto;
+}
+.encabezado{
+    background-color: rgb(46, 40, 40);
+    color: white;
+    
+}
+.encabezado th{
+    padding: .5rem 2rem;
+}
+
+.list-item td{
+    border-bottom: 1px solid black;
+}

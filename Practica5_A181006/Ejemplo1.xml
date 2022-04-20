@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="file:/C:/Users/Javier/Desktop/Practica5_A181006/Ejemplo1.xsl"?>
+<perros>
+<perro>
+  <nombre>Max</nombre>
+  <edad>2 Años</edad>
+  <raza>Pitbull</raza>
+  <color>Negro</color>
+</perro>
+<perro>
+  <nombre>Maylo</nombre>
+  <edad>1 Año</edad>
+  <raza>Buldog</raza>
+  <color>Blanco</color>
+</perro>
+<perro>
+  <nombre>Terry</nombre>
+  <edad>2 Años</edad>
+  <raza>Labradorl</raza>
+  <color>Blanco</color>
+</perro>
+<perro>
+  <nombre>Scooby</nombre>
+  <edad>3 Años</edad>
+  <raza>chihuahua</raza>
+  <color>Negro</color>
+</perro>
+
+</perros>
